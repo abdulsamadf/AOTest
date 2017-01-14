@@ -15,7 +15,7 @@ namespace Tests
         }
 
         [Test]
-        public void ValidAccount()
+        public void ValidSearch()
         {
             //Search from home page
             Search.With("Washing machines");
