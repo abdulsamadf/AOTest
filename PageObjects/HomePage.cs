@@ -15,7 +15,6 @@ namespace PageObjects
         By CustomerRatingThreeAndAboveStars = By.XPath("//a[@href='/l/washing_machines-hotpoint-32d0andabove/1-6-41/1/']");
         By SuccessfullSearch = By.XPath("//*[@id='SeoTitle']");
       
-
         public HomePage(IWebDriver driver) : base(driver)
         {
             Visit("");
