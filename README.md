@@ -1,4 +1,4 @@
-# AOTest - First bash at C##
+# AOTest - First bash at C#/NUnit
 ## Test Framework for ao.com - C#/NUnit + Selenium 
 
 - Goes to ao.com
